@@ -1,0 +1,20 @@
+site_name: Pesquisa e Novação
+repo_url: https://github.com/pesquisa-novacao/pesquisa-novacao.github.io
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  language: pt
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+  - Sobre: 
+    - index.md
+  - CONTRIBUTING.md
+  - SUPPORT.md
