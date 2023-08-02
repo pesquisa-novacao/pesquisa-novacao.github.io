@@ -10,11 +10,21 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - Sobre: 
     - index.md
+  - Material:
+    - material.md
+    - material/cobertura-imprensa.md
+  - comunidades.md
+  - auxilio-juridico.md
   - CONTRIBUTING.md
   - SUPPORT.md
