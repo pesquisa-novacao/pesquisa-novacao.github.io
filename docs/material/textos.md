@@ -1,0 +1,3 @@
+# Textos
+
+- 16 de março de 2023 - [Ex-bolsistas brasileiros no exterior: dívida não paga ou oportunidade desperdiçada](http://www.jornaldaciencia.org.br/edicoes/?url=http://jcnoticias.jornaldaciencia.org.br/28-ex-bolsistas-brasileiros-no-exterior-divida-nao-paga-ou-oportunidade-desperdicada/&utm_smid=10464595-1-1) - Jornal da Ciência - Publicação da Sociedade Brasileira para Progresso do Ciência - por Vinicius Kauê Ferreira
